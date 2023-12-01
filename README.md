@@ -35,3 +35,29 @@
 ### 10. Создание ветки для отчёта
 ![](/Screenshots/CreateReportBranch.png)
 ![](/Screenshots/PushReport.png)
+### Лог команд
+```
+git config --global user.name "4217 Laptev Kirill"
+git config --global user.email "default1one@gmail.com"
+git clone
+git pull
+git log --graph --all
+git show
+git show
+git show
+git merge origin/branch1
+git status
+cat mergefile.txt
+git add .
+git status
+git commit -m "Разрешён конфликт слияния"
+git push origin -d branch1
+notepad "New File"
+git status
+git add .
+git commit -m "Внесены изменения в New file"
+git reset --hard HEAD~
+git checkout -b report
+git push
+git push --set-upstream origin report
+```
