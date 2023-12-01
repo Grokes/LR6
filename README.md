@@ -18,8 +18,10 @@
 ### 5. Последние изменения
 ![](/Screenshots/LastChanges1(my).png)
 Мои изменения
+
 ![](/Screenshots/LastChanges2(main).png)
 Изменения в Main
+
 ![](/Screenshots/LastChanges3(branch1).png)
 Изменения в branch1
 ### 6. Слияние веток и решение конфликта
