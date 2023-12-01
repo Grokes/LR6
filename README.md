@@ -35,7 +35,7 @@
 ### 10. Создание ветки для отчёта
 ![](/Screenshots/CreateReportBranch.png)
 ![](/Screenshots/PushReport.png)
-### Лог команд
+## Лог команд
 ```
 git config --global user.name "4217 Laptev Kirill"
 git config --global user.email "default1one@gmail.com"
@@ -61,3 +61,7 @@ git checkout -b report
 git push
 git push --set-upstream origin report
 ```
+## История коммитов
+![](/Screenshots/History.png)
+## Выводы
+Я изучил базовые возможности системы управления версиями, опыт работы с Git Api, опыт работы с локальным и удаленным репозиторием.
